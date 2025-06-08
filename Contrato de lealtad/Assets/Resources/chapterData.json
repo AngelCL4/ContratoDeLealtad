@@ -1,0 +1,478 @@
+{
+  "contratos": 1,
+  "entrenar": 1,
+  "chapters": [
+    {
+      "chapterName": "Chapter1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "battleMusic": "WindmillVillage",
+      "bossMusic": "SwiftStrike",
+      "campMusic": "GuitarGentle",
+      "unitpromoted": "Demain"
+    },
+    {
+      "chapterName": "Chapter2",
+      "completed": false,
+      "background": "DayTimeTavern1",
+      "battleMusic": "CrimsonMoon",
+      "bossMusic": "Puppeteer",
+      "campMusic": "GuitarGentle"
+    },
+    {
+      "chapterName": "Chapter3",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "Chapter4",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "Chapter5",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "Chapter6",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "Chapter7",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "Chapter8",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "Chapter9",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "Chapter10",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "Chapter11",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "Chapter12",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "Chapter13",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "Chapter14",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "Chapter15",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterLisella1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterLisella2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterAki1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterAki2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterAlena1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterAlena2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterAvarel1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterAvarel2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterAviria1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterAviria2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterCelsia1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterCelsia2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterEldael1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterEldael2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterElmer1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterElmer2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterFesha1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterFesha2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterHandox1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterHandox2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterHelxes1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterHelxes2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterHyugan1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterHyugan2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterIpris1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterIpris2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterIrina1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterIrina2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterJadyr1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterJadyr2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterKami1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterKami2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterKiara1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterKiara2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterKolax1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterKolax2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterLetan1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterLetan2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterLilen1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterLilen2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterLoreas1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterLoreas2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterLumina1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterLumina2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterMalen1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterMalen2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterMirah1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterMirah2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterNandris1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterNandris2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterNoru1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterNoru2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterOlyr1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterOlyr2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterOnirie1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterOnirie2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterOzane1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterOzane2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterPhesen1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterPhesen2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterQuaill1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterQuaill2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterSeiha1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterSeiha2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterSelden1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterSelden2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterSiel1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterSiel2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterTilpha1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterTilpha2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterUmia1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterUmia2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterVila1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterVila2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterWaishe1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterWaishe2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterZisian1",
+      "completed": false,
+      "background": "Village2WinterDay"
+    },
+    {
+      "chapterName": "ChapterZisian2",
+      "completed": false,
+      "background": "Village2WinterDay"
+    }
+  ]
+}

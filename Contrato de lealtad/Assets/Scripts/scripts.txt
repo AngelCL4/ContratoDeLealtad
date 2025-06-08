@@ -1,0 +1,43 @@
+void InstanciarUnidad(Unidad unidadDatos, Vector2 posicion)
+    {
+        Vector3 posicion3D = new Vector3(posicion.x, posicion.y, -1f);
+        GameObject nuevaUnidad = Instantiate(unidadPrefab, posicion3D, Quaternion.identity);
+        UnidadVisual unidadVisual = nuevaUnidad.GetComponent<UnidadVisual>();
+        unidadVisual.AsignarDatos(unidadDatos);
+    }
+
+private MapData CargarDatosMapa()
+    {
+        TextAsset jsonData = Resources.Load<TextAsset>("Maps/map3");
+        if (jsonData == null)
+        {
+            Debug.LogError("No se pudo encontrar el archivo mapa.json en Resources/Maps");
+            return null;
+        }
+
+        MapData mapData = JsonUtility.FromJson<MapData>(jsonData.text);
+        for (int i = 0; i < mapData.playerSpawnPositions.Length; i++)
+        {
+            mapData.playerSpawnPositions[i] += Vector2.one * 0.5f;
+        }
+
+        for (int i = 0; i < mapData.enemySpawnPositions.Length; i++)
+        {
+            mapData.enemySpawnPositions[i] += Vector2.one * 0.5f;
+        }
+        return mapData;
+    }
+
+void Start()
+    {
+        // Aquí asegúrate de tener ya cargado datosJuego
+        mapData = CargarDatosMapa();
+        datosJuego = CargarDatosJuego(); // Método que ya tienes, o referencia a donde lo tengas
+
+        // Instanciar las dos primeras unidades
+        InstanciarUnidad(datosJuego.unidades[0], mapData.playerSpawnPositions[0]);
+        InstanciarUnidad(datosJuego.unidades[1], mapData.playerSpawnPositions[1]);
+    }
+
+private MapData mapData;
+public GameObject unidadPrefab;

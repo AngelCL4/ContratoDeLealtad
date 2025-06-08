@@ -1,0 +1,843 @@
+{
+  "contratos": 0,
+  "entrenar": 0,
+  "chapters": [
+    {
+      "chapterName": "Chapter1",
+      "completed": true,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": "WindmillVillage",
+      "bossMusic": "SwiftStrike",
+      "campMusic": "GuitarGentle"
+    },
+    {
+      "chapterName": "Chapter2",
+      "completed": false,
+      "background": "DayTimeTavern1",
+      "daytime": null,
+      "battleMusic": "CrimsonMoon",
+      "bossMusic": "Puppeteer",
+      "campMusic": "GuitarGentle"
+    },
+    {
+      "chapterName": "Chapter3",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "Chapter4",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "Chapter5",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "Chapter6",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "Chapter7",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "Chapter8",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "Chapter9",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "Chapter10",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "Chapter11",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "Chapter12",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "Chapter13",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "Chapter14",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "Chapter15",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterLisella1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterLisella2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterAki1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterAki2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterAlena1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterAlena2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterAvarel1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterAvarel2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterAviria1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterAviria2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterCelsia1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterCelsia2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterEldael1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterEldael2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterElmer1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterElmer2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterFesha1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterFesha2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterHandox1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterHandox2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterHelxes1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterHelxes2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterHyugan1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterHyugan2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterIpris1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterIpris2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterIrina1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterIrina2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterJadyr1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterJadyr2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterKami1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterKami2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterKiara1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterKiara2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterKolax1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterKolax2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterLetan1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterLetan2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterLilen1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterLilen2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterLoreas1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterLoreas2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterLumina1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterLumina2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterMalen1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterMalen2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterMirah1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterMirah2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterNandris1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterNandris2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterNoru1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterNoru2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterOlyr1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterOlyr2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterOnirie1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterOnirie2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterOzane1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterOzane2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterPhesen1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterPhesen2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterQuaill1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterQuaill2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterSeiha1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterSeiha2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterSelden1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterSelden2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterSiel1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterSiel2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterTilpha1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterTilpha2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterUmia1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterUmia2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterVila1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterVila2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterWaishe1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterWaishe2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterZisian1",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    },
+    {
+      "chapterName": "ChapterZisian2",
+      "completed": false,
+      "background": "Village2WinterDay",
+      "daytime": null,
+      "battleMusic": null,
+      "bossMusic": null,
+      "campMusic": null
+    }
+  ]
+}
